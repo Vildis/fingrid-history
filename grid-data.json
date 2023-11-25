@@ -631,43 +631,43 @@
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1365.2,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1370.3,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1373.2,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1376.2,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1379.5,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1383.3,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1378.8,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 191
@@ -4231,6 +4231,48 @@
       "start_time": "2023-11-25T05:13:00+02:00",
       "end_time": "2023-11-25T05:13:00+02:00",
       "variable_id": 192
+    },
+    {
+      "value": 10442,
+      "start_time": "2023-11-25T05:16:00+02:00",
+      "end_time": "2023-11-25T05:16:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10455,
+      "start_time": "2023-11-25T05:19:00+02:00",
+      "end_time": "2023-11-25T05:19:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10472,
+      "start_time": "2023-11-25T05:22:00+02:00",
+      "end_time": "2023-11-25T05:22:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10477,
+      "start_time": "2023-11-25T05:25:00+02:00",
+      "end_time": "2023-11-25T05:25:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10503,
+      "start_time": "2023-11-25T05:28:00+02:00",
+      "end_time": "2023-11-25T05:28:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10505,
+      "start_time": "2023-11-25T05:31:00+02:00",
+      "end_time": "2023-11-25T05:31:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10497,
+      "start_time": "2023-11-25T05:34:00+02:00",
+      "end_time": "2023-11-25T05:34:00+02:00",
+      "variable_id": 192
     }
   ],
   "NuclearPower": [
@@ -4865,43 +4907,43 @@
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4364.3,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4362.3,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4359.5,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4363.3,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4363.8,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4367,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4365,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 188
@@ -8467,43 +8509,43 @@
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 646.66,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 647,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 649.83,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 648.83,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 649.33,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 648.33,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 644,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 201
@@ -12069,43 +12111,43 @@
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1028.8,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1025.3,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1030.8,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1036.3,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1044.7,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1041.5,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1039.3,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 202
@@ -15671,43 +15713,43 @@
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2869,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2879.5,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2886,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2883,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2893,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2895,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 2900,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 181
@@ -19393,43 +19435,43 @@
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 0,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 248
@@ -22995,43 +23037,43 @@
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 169,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 205
@@ -26597,43 +26639,43 @@
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:16:00+02:00",
       "end_time": "2023-11-25T05:16:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:19:00+02:00",
       "end_time": "2023-11-25T05:19:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:22:00+02:00",
       "end_time": "2023-11-25T05:22:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:25:00+02:00",
       "end_time": "2023-11-25T05:25:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:28:00+02:00",
       "end_time": "2023-11-25T05:28:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:31:00+02:00",
       "end_time": "2023-11-25T05:31:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2023-11-25T05:34:00+02:00",
       "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 183
@@ -30197,6 +30239,48 @@
       "start_time": "2023-11-25T05:13:00+02:00",
       "end_time": "2023-11-25T05:13:00+02:00",
       "variable_id": 193
+    },
+    {
+      "value": 10733,
+      "start_time": "2023-11-25T05:16:00+02:00",
+      "end_time": "2023-11-25T05:16:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10723,
+      "start_time": "2023-11-25T05:19:00+02:00",
+      "end_time": "2023-11-25T05:19:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10741,
+      "start_time": "2023-11-25T05:22:00+02:00",
+      "end_time": "2023-11-25T05:22:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10745,
+      "start_time": "2023-11-25T05:25:00+02:00",
+      "end_time": "2023-11-25T05:25:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10809,
+      "start_time": "2023-11-25T05:28:00+02:00",
+      "end_time": "2023-11-25T05:28:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10775,
+      "start_time": "2023-11-25T05:31:00+02:00",
+      "end_time": "2023-11-25T05:31:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 10781,
+      "start_time": "2023-11-25T05:34:00+02:00",
+      "end_time": "2023-11-25T05:34:00+02:00",
+      "variable_id": 193
     }
   ],
   "NetImportExport": [
@@ -30828,6 +30912,48 @@
       "value": -291.32,
       "start_time": "2023-11-25T05:13:00+02:00",
       "end_time": "2023-11-25T05:13:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -290.8,
+      "start_time": "2023-11-25T05:16:00+02:00",
+      "end_time": "2023-11-25T05:16:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -265.66,
+      "start_time": "2023-11-25T05:19:00+02:00",
+      "end_time": "2023-11-25T05:19:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -272.82,
+      "start_time": "2023-11-25T05:22:00+02:00",
+      "end_time": "2023-11-25T05:22:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -250.14,
+      "start_time": "2023-11-25T05:25:00+02:00",
+      "end_time": "2023-11-25T05:25:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -308.32,
+      "start_time": "2023-11-25T05:28:00+02:00",
+      "end_time": "2023-11-25T05:28:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -255.82,
+      "start_time": "2023-11-25T05:31:00+02:00",
+      "end_time": "2023-11-25T05:31:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -275.24,
+      "start_time": "2023-11-25T05:34:00+02:00",
+      "end_time": "2023-11-25T05:34:00+02:00",
       "variable_id": 194
     }
   ],
@@ -31613,6 +31739,48 @@
       "start_time": "2023-11-25T05:13:00+02:00",
       "end_time": "2023-11-25T05:13:00+02:00",
       "variable_id": 265
+    },
+    {
+      "value": 31.762,
+      "start_time": "2023-11-25T05:16:00+02:00",
+      "end_time": "2023-11-25T05:16:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.776,
+      "start_time": "2023-11-25T05:19:00+02:00",
+      "end_time": "2023-11-25T05:19:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.814,
+      "start_time": "2023-11-25T05:22:00+02:00",
+      "end_time": "2023-11-25T05:22:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.843,
+      "start_time": "2023-11-25T05:25:00+02:00",
+      "end_time": "2023-11-25T05:25:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.883,
+      "start_time": "2023-11-25T05:28:00+02:00",
+      "end_time": "2023-11-25T05:28:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.936,
+      "start_time": "2023-11-25T05:31:00+02:00",
+      "end_time": "2023-11-25T05:31:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 31.753,
+      "start_time": "2023-11-25T05:34:00+02:00",
+      "end_time": "2023-11-25T05:34:00+02:00",
+      "variable_id": 265
     }
   ],
   "ProductionEmissionCo2": [
@@ -32245,51 +32413,51 @@
       "start_time": "2023-11-25T05:13:00+02:00",
       "end_time": "2023-11-25T05:13:00+02:00",
       "variable_id": 266
+    },
+    {
+      "value": 34.16,
+      "start_time": "2023-11-25T05:16:00+02:00",
+      "end_time": "2023-11-25T05:16:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.135,
+      "start_time": "2023-11-25T05:19:00+02:00",
+      "end_time": "2023-11-25T05:19:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.18,
+      "start_time": "2023-11-25T05:22:00+02:00",
+      "end_time": "2023-11-25T05:22:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.191,
+      "start_time": "2023-11-25T05:25:00+02:00",
+      "end_time": "2023-11-25T05:25:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.32,
+      "start_time": "2023-11-25T05:28:00+02:00",
+      "end_time": "2023-11-25T05:28:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.319,
+      "start_time": "2023-11-25T05:31:00+02:00",
+      "end_time": "2023-11-25T05:31:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 34.118,
+      "start_time": "2023-11-25T05:34:00+02:00",
+      "end_time": "2023-11-25T05:34:00+02:00",
+      "variable_id": 266
     }
   ],
   "ProductionForecast": [
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:16:00+02:00",
-      "end_time": "2023-11-25T05:16:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:19:00+02:00",
-      "end_time": "2023-11-25T05:19:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:22:00+02:00",
-      "end_time": "2023-11-25T05:22:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:25:00+02:00",
-      "end_time": "2023-11-25T05:25:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:28:00+02:00",
-      "end_time": "2023-11-25T05:28:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:31:00+02:00",
-      "end_time": "2023-11-25T05:31:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 9991.32,
-      "start_time": "2023-11-25T05:34:00+02:00",
-      "end_time": "2023-11-25T05:34:00+02:00",
-      "variable_id": 241
-    },
     {
       "value": 9991.32,
       "start_time": "2023-11-25T05:37:00+02:00",
@@ -35220,48 +35388,6 @@
     }
   ],
   "ConsumptionForecast": [
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:16:00+02:00",
-      "end_time": "2023-11-25T05:16:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:19:00+02:00",
-      "end_time": "2023-11-25T05:19:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:22:00+02:00",
-      "end_time": "2023-11-25T05:22:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:25:00+02:00",
-      "end_time": "2023-11-25T05:25:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:28:00+02:00",
-      "end_time": "2023-11-25T05:28:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:31:00+02:00",
-      "end_time": "2023-11-25T05:31:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 10779.3,
-      "start_time": "2023-11-25T05:34:00+02:00",
-      "end_time": "2023-11-25T05:34:00+02:00",
-      "variable_id": 166
-    },
     {
       "value": 10779.3,
       "start_time": "2023-11-25T05:37:00+02:00",
