@@ -1231,43 +1231,43 @@
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1903,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1901.8,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1905.8,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1912.7,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1929.3,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1934.7,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 191
     },
     {
-      "value": null,
+      "value": 1942.5,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 191
@@ -5431,6 +5431,48 @@
       "start_time": "2024-01-06T10:13:00+02:00",
       "end_time": "2024-01-06T10:13:00+02:00",
       "variable_id": 192
+    },
+    {
+      "value": 10640,
+      "start_time": "2024-01-06T10:16:00+02:00",
+      "end_time": "2024-01-06T10:16:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10627,
+      "start_time": "2024-01-06T10:19:00+02:00",
+      "end_time": "2024-01-06T10:19:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10634,
+      "start_time": "2024-01-06T10:22:00+02:00",
+      "end_time": "2024-01-06T10:22:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10653,
+      "start_time": "2024-01-06T10:25:00+02:00",
+      "end_time": "2024-01-06T10:25:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10653,
+      "start_time": "2024-01-06T10:28:00+02:00",
+      "end_time": "2024-01-06T10:28:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10652,
+      "start_time": "2024-01-06T10:31:00+02:00",
+      "end_time": "2024-01-06T10:31:00+02:00",
+      "variable_id": 192
+    },
+    {
+      "value": 10681,
+      "start_time": "2024-01-06T10:34:00+02:00",
+      "end_time": "2024-01-06T10:34:00+02:00",
+      "variable_id": 192
     }
   ],
   "NuclearPower": [
@@ -6665,43 +6707,43 @@
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4352.7,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4351.8,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4354.3,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4360.3,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4361,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4361.3,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 188
     },
     {
-      "value": null,
+      "value": 4363.5,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 188
@@ -10867,43 +10909,43 @@
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2159.7,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2153.5,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2159.3,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2164.7,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2154.7,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2148.7,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 201
     },
     {
-      "value": null,
+      "value": 2140.7,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 201
@@ -15069,43 +15111,43 @@
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1469.5,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1468.8,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1461.5,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1460.3,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1456.5,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1455.8,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 202
     },
     {
-      "value": null,
+      "value": 1478,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 202
@@ -19271,43 +19313,43 @@
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 219,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 216,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 213,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 213,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 213,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 213,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 181
     },
     {
-      "value": null,
+      "value": 219,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 181
@@ -23593,43 +23635,43 @@
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 248
     },
     {
-      "value": null,
+      "value": 13.4,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 248
@@ -27795,43 +27837,43 @@
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 538,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 536,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 536,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 540,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 538,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 536,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 205
     },
     {
-      "value": null,
+      "value": 536,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 205
@@ -31997,43 +32039,43 @@
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:16:00+02:00",
       "end_time": "2024-01-06T10:16:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:19:00+02:00",
       "end_time": "2024-01-06T10:19:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:22:00+02:00",
       "end_time": "2024-01-06T10:22:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:25:00+02:00",
       "end_time": "2024-01-06T10:25:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:28:00+02:00",
       "end_time": "2024-01-06T10:28:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:31:00+02:00",
       "end_time": "2024-01-06T10:31:00+02:00",
       "variable_id": 183
     },
     {
-      "value": null,
+      "value": 0.1,
       "start_time": "2024-01-06T10:34:00+02:00",
       "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 183
@@ -36197,6 +36239,48 @@
       "start_time": "2024-01-06T10:13:00+02:00",
       "end_time": "2024-01-06T10:13:00+02:00",
       "variable_id": 193
+    },
+    {
+      "value": 13168,
+      "start_time": "2024-01-06T10:16:00+02:00",
+      "end_time": "2024-01-06T10:16:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13184,
+      "start_time": "2024-01-06T10:19:00+02:00",
+      "end_time": "2024-01-06T10:19:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13241,
+      "start_time": "2024-01-06T10:22:00+02:00",
+      "end_time": "2024-01-06T10:22:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13286,
+      "start_time": "2024-01-06T10:25:00+02:00",
+      "end_time": "2024-01-06T10:25:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13299,
+      "start_time": "2024-01-06T10:28:00+02:00",
+      "end_time": "2024-01-06T10:28:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13312,
+      "start_time": "2024-01-06T10:31:00+02:00",
+      "end_time": "2024-01-06T10:31:00+02:00",
+      "variable_id": 193
+    },
+    {
+      "value": 13329,
+      "start_time": "2024-01-06T10:34:00+02:00",
+      "end_time": "2024-01-06T10:34:00+02:00",
+      "variable_id": 193
     }
   ],
   "NetImportExport": [
@@ -37428,6 +37512,48 @@
       "value": -2517,
       "start_time": "2024-01-06T10:13:00+02:00",
       "end_time": "2024-01-06T10:13:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2527,
+      "start_time": "2024-01-06T10:16:00+02:00",
+      "end_time": "2024-01-06T10:16:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2558.4,
+      "start_time": "2024-01-06T10:19:00+02:00",
+      "end_time": "2024-01-06T10:19:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2605.1,
+      "start_time": "2024-01-06T10:22:00+02:00",
+      "end_time": "2024-01-06T10:22:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2628.2,
+      "start_time": "2024-01-06T10:25:00+02:00",
+      "end_time": "2024-01-06T10:25:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2645,
+      "start_time": "2024-01-06T10:28:00+02:00",
+      "end_time": "2024-01-06T10:28:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2661.4,
+      "start_time": "2024-01-06T10:31:00+02:00",
+      "end_time": "2024-01-06T10:31:00+02:00",
+      "variable_id": 194
+    },
+    {
+      "value": -2648.9,
+      "start_time": "2024-01-06T10:34:00+02:00",
+      "end_time": "2024-01-06T10:34:00+02:00",
       "variable_id": 194
     }
   ],
@@ -38813,6 +38939,48 @@
       "start_time": "2024-01-06T10:13:00+02:00",
       "end_time": "2024-01-06T10:13:00+02:00",
       "variable_id": 265
+    },
+    {
+      "value": 114.64,
+      "start_time": "2024-01-06T10:16:00+02:00",
+      "end_time": "2024-01-06T10:16:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 114.55,
+      "start_time": "2024-01-06T10:19:00+02:00",
+      "end_time": "2024-01-06T10:19:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 114.26,
+      "start_time": "2024-01-06T10:22:00+02:00",
+      "end_time": "2024-01-06T10:22:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 114.8,
+      "start_time": "2024-01-06T10:25:00+02:00",
+      "end_time": "2024-01-06T10:25:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 114.31,
+      "start_time": "2024-01-06T10:28:00+02:00",
+      "end_time": "2024-01-06T10:28:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 113.97,
+      "start_time": "2024-01-06T10:31:00+02:00",
+      "end_time": "2024-01-06T10:31:00+02:00",
+      "variable_id": 265
+    },
+    {
+      "value": 113.9,
+      "start_time": "2024-01-06T10:34:00+02:00",
+      "end_time": "2024-01-06T10:34:00+02:00",
+      "variable_id": 265
     }
   ],
   "ProductionEmissionCo2": [
@@ -40045,51 +40213,51 @@
       "start_time": "2024-01-06T10:13:00+02:00",
       "end_time": "2024-01-06T10:13:00+02:00",
       "variable_id": 266
+    },
+    {
+      "value": 110.39,
+      "start_time": "2024-01-06T10:16:00+02:00",
+      "end_time": "2024-01-06T10:16:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 110.29,
+      "start_time": "2024-01-06T10:19:00+02:00",
+      "end_time": "2024-01-06T10:19:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 110.31,
+      "start_time": "2024-01-06T10:22:00+02:00",
+      "end_time": "2024-01-06T10:22:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 110.62,
+      "start_time": "2024-01-06T10:25:00+02:00",
+      "end_time": "2024-01-06T10:25:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 110.06,
+      "start_time": "2024-01-06T10:28:00+02:00",
+      "end_time": "2024-01-06T10:28:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 109.79,
+      "start_time": "2024-01-06T10:31:00+02:00",
+      "end_time": "2024-01-06T10:31:00+02:00",
+      "variable_id": 266
+    },
+    {
+      "value": 109.65,
+      "start_time": "2024-01-06T10:34:00+02:00",
+      "end_time": "2024-01-06T10:34:00+02:00",
+      "variable_id": 266
     }
   ],
   "ProductionForecast": [
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:16:00+02:00",
-      "end_time": "2024-01-06T10:16:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:19:00+02:00",
-      "end_time": "2024-01-06T10:19:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:22:00+02:00",
-      "end_time": "2024-01-06T10:22:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:25:00+02:00",
-      "end_time": "2024-01-06T10:25:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:28:00+02:00",
-      "end_time": "2024-01-06T10:28:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:31:00+02:00",
-      "end_time": "2024-01-06T10:31:00+02:00",
-      "variable_id": 241
-    },
-    {
-      "value": 10301.04,
-      "start_time": "2024-01-06T10:34:00+02:00",
-      "end_time": "2024-01-06T10:34:00+02:00",
-      "variable_id": 241
-    },
     {
       "value": 10301.04,
       "start_time": "2024-01-06T10:37:00+02:00",
@@ -43020,48 +43188,6 @@
     }
   ],
   "ConsumptionForecast": [
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:16:00+02:00",
-      "end_time": "2024-01-06T10:16:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:19:00+02:00",
-      "end_time": "2024-01-06T10:19:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:22:00+02:00",
-      "end_time": "2024-01-06T10:22:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:25:00+02:00",
-      "end_time": "2024-01-06T10:25:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:28:00+02:00",
-      "end_time": "2024-01-06T10:28:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:31:00+02:00",
-      "end_time": "2024-01-06T10:31:00+02:00",
-      "variable_id": 166
-    },
-    {
-      "value": 13235.7,
-      "start_time": "2024-01-06T10:34:00+02:00",
-      "end_time": "2024-01-06T10:34:00+02:00",
-      "variable_id": 166
-    },
     {
       "value": 13235.7,
       "start_time": "2024-01-06T10:37:00+02:00",
