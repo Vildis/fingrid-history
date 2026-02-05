@@ -2707,81 +2707,57 @@
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 1688.8,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 191
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 1689.8,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 1695.7,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 191
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 1687.2,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 1659.7,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 191
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 1653.2,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 1655.8,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 191
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 1657.7,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 191
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 1624.7,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 191
     },
     {
@@ -9811,6 +9787,60 @@
       "startTime": "2026-02-05T20:30:00Z",
       "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 192
+    },
+    {
+      "value": 11065.0,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 11059.0,
+      "startTime": "2026-02-05T20:36:00Z",
+      "endTime": "2026-02-05T20:39:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 11042.0,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 11014.0,
+      "startTime": "2026-02-05T20:42:00Z",
+      "endTime": "2026-02-05T20:45:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 10985.0,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 10964.0,
+      "startTime": "2026-02-05T20:48:00Z",
+      "endTime": "2026-02-05T20:51:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 10953.0,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 10948.0,
+      "startTime": "2026-02-05T20:54:00Z",
+      "endTime": "2026-02-05T20:57:00Z",
+      "datasetId": 192
+    },
+    {
+      "value": 10918.0,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
+      "datasetId": 192
     }
   ],
   "NuclearPower": [
@@ -12521,81 +12551,57 @@
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 4236.2,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 188
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 4236.5,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 4230.3,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 188
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 4233.2,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 4236.0,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 188
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 4236.5,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 4236.7,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 188
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 4236.8,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 188
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 4234.2,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 188
     },
     {
@@ -19627,81 +19633,57 @@
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 2225.8,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 201
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 2224.5,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 2230.5,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 201
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 2231.2,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 2227.0,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 201
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 2225.7,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 2216.5,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 201
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 2221.2,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 201
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 2219.0,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 201
     },
     {
@@ -26733,81 +26715,57 @@
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 1598.7,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 202
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 1598.7,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 1592.3,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 202
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 1584.2,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 1591.7,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 202
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 1601.2,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 1601.5,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 202
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 1595.8,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 202
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 1600.3,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 202
     },
     {
@@ -33839,81 +33797,57 @@
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 1087.5,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 181
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 1083.5,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 1066.0,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 181
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 1052.5,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 1047.5,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 181
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 1030.5,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 1018.0,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 181
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 1017.0,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 181
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 1017.0,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 181
     },
     {
@@ -42481,79 +42415,79 @@
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:35:00Z",
       "endTime": "2026-02-05T20:35:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:37:00Z",
       "endTime": "2026-02-05T20:37:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:39:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:41:00Z",
       "endTime": "2026-02-05T20:41:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:43:00Z",
       "endTime": "2026-02-05T20:43:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:45:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:47:00Z",
       "endTime": "2026-02-05T20:47:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:49:00Z",
       "endTime": "2026-02-05T20:49:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:51:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:53:00Z",
       "endTime": "2026-02-05T20:53:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:55:00Z",
       "endTime": "2026-02-05T20:55:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:57:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 248
     },
     {
-      "value": null,
+      "value": 0.0,
       "startTime": "2026-02-05T20:59:00Z",
       "endTime": "2026-02-05T20:59:00Z",
       "datasetId": 248
@@ -49587,81 +49521,57 @@
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 205
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 205
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 205
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 205
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 205
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 210.0,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 205
     },
     {
@@ -56693,81 +56603,57 @@
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 183
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 183
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 183
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 183
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
       "datasetId": 183
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
+      "value": 0.1,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
       "datasetId": 183
     },
     {
@@ -63797,6 +63683,60 @@
       "startTime": "2026-02-05T20:30:00Z",
       "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 193
+    },
+    {
+      "value": 13875.0,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13837.0,
+      "startTime": "2026-02-05T20:36:00Z",
+      "endTime": "2026-02-05T20:39:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13833.0,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13865.0,
+      "startTime": "2026-02-05T20:42:00Z",
+      "endTime": "2026-02-05T20:45:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13829.0,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13843.0,
+      "startTime": "2026-02-05T20:48:00Z",
+      "endTime": "2026-02-05T20:51:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13872.0,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13890.0,
+      "startTime": "2026-02-05T20:54:00Z",
+      "endTime": "2026-02-05T20:57:00Z",
+      "datasetId": 193
+    },
+    {
+      "value": 13807.0,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
+      "datasetId": 193
     }
   ],
   "NetImportExport": [
@@ -66505,6 +66445,60 @@
       "startTime": "2026-02-05T20:30:00Z",
       "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 194
+    },
+    {
+      "value": -2795.5,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2777.9,
+      "startTime": "2026-02-05T20:36:00Z",
+      "endTime": "2026-02-05T20:39:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2791.1,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2846.5,
+      "startTime": "2026-02-05T20:42:00Z",
+      "endTime": "2026-02-05T20:45:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2890.9,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2869.8,
+      "startTime": "2026-02-05T20:48:00Z",
+      "endTime": "2026-02-05T20:51:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2908.4,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2958.2,
+      "startTime": "2026-02-05T20:54:00Z",
+      "endTime": "2026-02-05T20:57:00Z",
+      "datasetId": 194
+    },
+    {
+      "value": -2897.1,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
+      "datasetId": 194
     }
   ],
   "ElectricityPriceInFinland": [
@@ -67082,570 +67076,6 @@
       "value": 94.59,
       "startTime": "2026-02-05T22:45:00Z",
       "endTime": "2026-02-05T23:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 149.99,
-      "startTime": "2026-02-05T23:00:00Z",
-      "endTime": "2026-02-05T23:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 141.46,
-      "startTime": "2026-02-05T23:15:00Z",
-      "endTime": "2026-02-05T23:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 134.26,
-      "startTime": "2026-02-05T23:30:00Z",
-      "endTime": "2026-02-05T23:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 120.92,
-      "startTime": "2026-02-05T23:45:00Z",
-      "endTime": "2026-02-06T00:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 135.41,
-      "startTime": "2026-02-06T00:00:00Z",
-      "endTime": "2026-02-06T00:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 127.14,
-      "startTime": "2026-02-06T00:15:00Z",
-      "endTime": "2026-02-06T00:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 123.09,
-      "startTime": "2026-02-06T00:30:00Z",
-      "endTime": "2026-02-06T00:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 109.99,
-      "startTime": "2026-02-06T00:45:00Z",
-      "endTime": "2026-02-06T01:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 114.41,
-      "startTime": "2026-02-06T01:00:00Z",
-      "endTime": "2026-02-06T01:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 101.89,
-      "startTime": "2026-02-06T01:15:00Z",
-      "endTime": "2026-02-06T01:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 101.49,
-      "startTime": "2026-02-06T01:30:00Z",
-      "endTime": "2026-02-06T01:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 105.77,
-      "startTime": "2026-02-06T01:45:00Z",
-      "endTime": "2026-02-06T02:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 106.24,
-      "startTime": "2026-02-06T02:00:00Z",
-      "endTime": "2026-02-06T02:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 124.29,
-      "startTime": "2026-02-06T02:15:00Z",
-      "endTime": "2026-02-06T02:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 120.51,
-      "startTime": "2026-02-06T02:30:00Z",
-      "endTime": "2026-02-06T02:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 128.86,
-      "startTime": "2026-02-06T02:45:00Z",
-      "endTime": "2026-02-06T03:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 101.73,
-      "startTime": "2026-02-06T03:00:00Z",
-      "endTime": "2026-02-06T03:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 134.31,
-      "startTime": "2026-02-06T03:15:00Z",
-      "endTime": "2026-02-06T03:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 150.0,
-      "startTime": "2026-02-06T03:30:00Z",
-      "endTime": "2026-02-06T03:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 198.52,
-      "startTime": "2026-02-06T03:45:00Z",
-      "endTime": "2026-02-06T04:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 122.81,
-      "startTime": "2026-02-06T04:00:00Z",
-      "endTime": "2026-02-06T04:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.89,
-      "startTime": "2026-02-06T04:15:00Z",
-      "endTime": "2026-02-06T04:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 235.67,
-      "startTime": "2026-02-06T04:30:00Z",
-      "endTime": "2026-02-06T04:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 324.82,
-      "startTime": "2026-02-06T04:45:00Z",
-      "endTime": "2026-02-06T05:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 190.49,
-      "startTime": "2026-02-06T05:00:00Z",
-      "endTime": "2026-02-06T05:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 246.34,
-      "startTime": "2026-02-06T05:15:00Z",
-      "endTime": "2026-02-06T05:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 299.99,
-      "startTime": "2026-02-06T05:30:00Z",
-      "endTime": "2026-02-06T05:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 330.38,
-      "startTime": "2026-02-06T05:45:00Z",
-      "endTime": "2026-02-06T06:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 249.99,
-      "startTime": "2026-02-06T06:00:00Z",
-      "endTime": "2026-02-06T06:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 290.42,
-      "startTime": "2026-02-06T06:15:00Z",
-      "endTime": "2026-02-06T06:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 308.28,
-      "startTime": "2026-02-06T06:30:00Z",
-      "endTime": "2026-02-06T06:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 324.88,
-      "startTime": "2026-02-06T06:45:00Z",
-      "endTime": "2026-02-06T07:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 334.37,
-      "startTime": "2026-02-06T07:00:00Z",
-      "endTime": "2026-02-06T07:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 350.0,
-      "startTime": "2026-02-06T07:15:00Z",
-      "endTime": "2026-02-06T07:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 352.77,
-      "startTime": "2026-02-06T07:30:00Z",
-      "endTime": "2026-02-06T07:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 344.0,
-      "startTime": "2026-02-06T07:45:00Z",
-      "endTime": "2026-02-06T08:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 305.59,
-      "startTime": "2026-02-06T08:00:00Z",
-      "endTime": "2026-02-06T08:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 324.87,
-      "startTime": "2026-02-06T08:15:00Z",
-      "endTime": "2026-02-06T08:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 344.0,
-      "startTime": "2026-02-06T08:30:00Z",
-      "endTime": "2026-02-06T08:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 302.03,
-      "startTime": "2026-02-06T09:00:00Z",
-      "endTime": "2026-02-06T09:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 287.94,
-      "startTime": "2026-02-06T09:15:00Z",
-      "endTime": "2026-02-06T09:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 273.85,
-      "startTime": "2026-02-06T09:30:00Z",
-      "endTime": "2026-02-06T09:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 258.37,
-      "startTime": "2026-02-06T09:45:00Z",
-      "endTime": "2026-02-06T10:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 303.22,
-      "startTime": "2026-02-06T10:00:00Z",
-      "endTime": "2026-02-06T10:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 299.86,
-      "startTime": "2026-02-06T10:15:00Z",
-      "endTime": "2026-02-06T10:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 288.13,
-      "startTime": "2026-02-06T10:30:00Z",
-      "endTime": "2026-02-06T10:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 258.48,
-      "startTime": "2026-02-06T10:45:00Z",
-      "endTime": "2026-02-06T11:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 254.31,
-      "startTime": "2026-02-06T11:00:00Z",
-      "endTime": "2026-02-06T11:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 232.06,
-      "startTime": "2026-02-06T11:15:00Z",
-      "endTime": "2026-02-06T11:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 224.0,
-      "startTime": "2026-02-06T11:30:00Z",
-      "endTime": "2026-02-06T11:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 223.3,
-      "startTime": "2026-02-06T11:45:00Z",
-      "endTime": "2026-02-06T12:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 224.0,
-      "startTime": "2026-02-06T12:00:00Z",
-      "endTime": "2026-02-06T12:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 223.99,
-      "startTime": "2026-02-06T12:15:00Z",
-      "endTime": "2026-02-06T12:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 221.51,
-      "startTime": "2026-02-06T12:30:00Z",
-      "endTime": "2026-02-06T12:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.93,
-      "startTime": "2026-02-06T12:45:00Z",
-      "endTime": "2026-02-06T13:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 200.0,
-      "startTime": "2026-02-06T13:00:00Z",
-      "endTime": "2026-02-06T13:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.93,
-      "startTime": "2026-02-06T13:15:00Z",
-      "endTime": "2026-02-06T13:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 179.92,
-      "startTime": "2026-02-06T13:30:00Z",
-      "endTime": "2026-02-06T13:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 155.08,
-      "startTime": "2026-02-06T13:45:00Z",
-      "endTime": "2026-02-06T14:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 166.19,
-      "startTime": "2026-02-06T14:00:00Z",
-      "endTime": "2026-02-06T14:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 174.64,
-      "startTime": "2026-02-06T14:15:00Z",
-      "endTime": "2026-02-06T14:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 170.23,
-      "startTime": "2026-02-06T14:30:00Z",
-      "endTime": "2026-02-06T14:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 174.48,
-      "startTime": "2026-02-06T14:45:00Z",
-      "endTime": "2026-02-06T15:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 169.75,
-      "startTime": "2026-02-06T15:00:00Z",
-      "endTime": "2026-02-06T15:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 197.2,
-      "startTime": "2026-02-06T15:15:00Z",
-      "endTime": "2026-02-06T15:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 203.4,
-      "startTime": "2026-02-06T15:30:00Z",
-      "endTime": "2026-02-06T15:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 197.2,
-      "startTime": "2026-02-06T15:45:00Z",
-      "endTime": "2026-02-06T16:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 200.0,
-      "startTime": "2026-02-06T16:00:00Z",
-      "endTime": "2026-02-06T16:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 201.63,
-      "startTime": "2026-02-06T16:15:00Z",
-      "endTime": "2026-02-06T16:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 200.0,
-      "startTime": "2026-02-06T16:30:00Z",
-      "endTime": "2026-02-06T16:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 194.11,
-      "startTime": "2026-02-06T16:45:00Z",
-      "endTime": "2026-02-06T17:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 197.96,
-      "startTime": "2026-02-06T17:00:00Z",
-      "endTime": "2026-02-06T17:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 192.01,
-      "startTime": "2026-02-06T17:15:00Z",
-      "endTime": "2026-02-06T17:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 186.18,
-      "startTime": "2026-02-06T17:30:00Z",
-      "endTime": "2026-02-06T17:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 175.43,
-      "startTime": "2026-02-06T17:45:00Z",
-      "endTime": "2026-02-06T18:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 199.99,
-      "startTime": "2026-02-06T18:00:00Z",
-      "endTime": "2026-02-06T18:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.93,
-      "startTime": "2026-02-06T18:15:00Z",
-      "endTime": "2026-02-06T18:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 171.97,
-      "startTime": "2026-02-06T18:45:00Z",
-      "endTime": "2026-02-06T19:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.93,
-      "startTime": "2026-02-06T19:00:00Z",
-      "endTime": "2026-02-06T19:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 158.54,
-      "startTime": "2026-02-06T19:15:00Z",
-      "endTime": "2026-02-06T19:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 150.0,
-      "startTime": "2026-02-06T19:30:00Z",
-      "endTime": "2026-02-06T19:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 144.1,
-      "startTime": "2026-02-06T19:45:00Z",
-      "endTime": "2026-02-06T20:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 140.48,
-      "startTime": "2026-02-06T20:00:00Z",
-      "endTime": "2026-02-06T20:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 131.16,
-      "startTime": "2026-02-06T20:15:00Z",
-      "endTime": "2026-02-06T20:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 134.02,
-      "startTime": "2026-02-06T20:30:00Z",
-      "endTime": "2026-02-06T20:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 149.99,
-      "startTime": "2026-02-06T20:45:00Z",
-      "endTime": "2026-02-06T21:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 180.93,
-      "startTime": "2026-02-06T21:00:00Z",
-      "endTime": "2026-02-06T21:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 150.0,
-      "startTime": "2026-02-06T21:15:00Z",
-      "endTime": "2026-02-06T21:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 137.69,
-      "startTime": "2026-02-06T21:30:00Z",
-      "endTime": "2026-02-06T21:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 131.11,
-      "startTime": "2026-02-06T21:45:00Z",
-      "endTime": "2026-02-06T22:00:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 131.26,
-      "startTime": "2026-02-06T22:00:00Z",
-      "endTime": "2026-02-06T22:15:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 128.42,
-      "startTime": "2026-02-06T22:15:00Z",
-      "endTime": "2026-02-06T22:30:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 119.5,
-      "startTime": "2026-02-06T22:30:00Z",
-      "endTime": "2026-02-06T22:45:00Z",
-      "datasetId": 117
-    },
-    {
-      "value": 101.49,
-      "startTime": "2026-02-06T22:45:00Z",
-      "endTime": "2026-02-06T23:00:00Z",
       "datasetId": 117
     }
   ],
@@ -70355,6 +69785,60 @@
       "startTime": "2026-02-05T20:30:00Z",
       "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 265
+    },
+    {
+      "value": 61.273,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.42,
+      "startTime": "2026-02-05T20:36:00Z",
+      "endTime": "2026-02-05T20:39:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.553,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.251,
+      "startTime": "2026-02-05T20:42:00Z",
+      "endTime": "2026-02-05T20:45:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.418,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.314,
+      "startTime": "2026-02-05T20:48:00Z",
+      "endTime": "2026-02-05T20:51:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.23,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.171,
+      "startTime": "2026-02-05T20:54:00Z",
+      "endTime": "2026-02-05T20:57:00Z",
+      "datasetId": 265
+    },
+    {
+      "value": 61.545,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
+      "datasetId": 265
     }
   ],
   "ProductionEmissionCo2": [
@@ -73063,2423 +72547,2399 @@
       "startTime": "2026-02-05T20:30:00Z",
       "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 266
+    },
+    {
+      "value": 75.134,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.169,
+      "startTime": "2026-02-05T20:36:00Z",
+      "endTime": "2026-02-05T20:39:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.347,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.342,
+      "startTime": "2026-02-05T20:42:00Z",
+      "endTime": "2026-02-05T20:45:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.584,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.693,
+      "startTime": "2026-02-05T20:48:00Z",
+      "endTime": "2026-02-05T20:51:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.687,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.794,
+      "startTime": "2026-02-05T20:54:00Z",
+      "endTime": "2026-02-05T20:57:00Z",
+      "datasetId": 266
+    },
+    {
+      "value": 75.926,
+      "startTime": "2026-02-05T20:57:00Z",
+      "endTime": "2026-02-05T21:00:00Z",
+      "datasetId": 266
     }
   ],
   "ProductionForecast": [
     {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:39:00Z",
-      "endTime": "2026-02-05T20:39:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:45:00Z",
-      "endTime": "2026-02-05T20:45:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:51:00Z",
-      "endTime": "2026-02-05T20:51:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:57:00Z",
-      "endTime": "2026-02-05T20:57:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10853.1,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
-      "datasetId": 241
-    },
-    {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:01:00Z",
       "endTime": "2026-02-05T21:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:03:00Z",
       "endTime": "2026-02-05T21:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:05:00Z",
       "endTime": "2026-02-05T21:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:07:00Z",
       "endTime": "2026-02-05T21:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:09:00Z",
       "endTime": "2026-02-05T21:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:11:00Z",
       "endTime": "2026-02-05T21:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:13:00Z",
       "endTime": "2026-02-05T21:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:15:00Z",
       "endTime": "2026-02-05T21:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:17:00Z",
       "endTime": "2026-02-05T21:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:19:00Z",
       "endTime": "2026-02-05T21:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:21:00Z",
       "endTime": "2026-02-05T21:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:23:00Z",
       "endTime": "2026-02-05T21:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:25:00Z",
       "endTime": "2026-02-05T21:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:27:00Z",
       "endTime": "2026-02-05T21:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:29:00Z",
       "endTime": "2026-02-05T21:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:31:00Z",
       "endTime": "2026-02-05T21:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:33:00Z",
       "endTime": "2026-02-05T21:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:35:00Z",
       "endTime": "2026-02-05T21:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:37:00Z",
       "endTime": "2026-02-05T21:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:39:00Z",
       "endTime": "2026-02-05T21:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:41:00Z",
       "endTime": "2026-02-05T21:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:43:00Z",
       "endTime": "2026-02-05T21:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:45:00Z",
       "endTime": "2026-02-05T21:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:47:00Z",
       "endTime": "2026-02-05T21:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:49:00Z",
       "endTime": "2026-02-05T21:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:51:00Z",
       "endTime": "2026-02-05T21:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:53:00Z",
       "endTime": "2026-02-05T21:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:55:00Z",
       "endTime": "2026-02-05T21:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:57:00Z",
       "endTime": "2026-02-05T21:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 10593.3,
+      "value": 10593.2,
       "startTime": "2026-02-05T21:59:00Z",
       "endTime": "2026-02-05T21:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:01:00Z",
       "endTime": "2026-02-05T22:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:03:00Z",
       "endTime": "2026-02-05T22:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:05:00Z",
       "endTime": "2026-02-05T22:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:07:00Z",
       "endTime": "2026-02-05T22:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:09:00Z",
       "endTime": "2026-02-05T22:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:11:00Z",
       "endTime": "2026-02-05T22:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:13:00Z",
       "endTime": "2026-02-05T22:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:15:00Z",
       "endTime": "2026-02-05T22:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:17:00Z",
       "endTime": "2026-02-05T22:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:19:00Z",
       "endTime": "2026-02-05T22:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:21:00Z",
       "endTime": "2026-02-05T22:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:23:00Z",
       "endTime": "2026-02-05T22:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:25:00Z",
       "endTime": "2026-02-05T22:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:27:00Z",
       "endTime": "2026-02-05T22:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:29:00Z",
       "endTime": "2026-02-05T22:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:31:00Z",
       "endTime": "2026-02-05T22:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:33:00Z",
       "endTime": "2026-02-05T22:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:35:00Z",
       "endTime": "2026-02-05T22:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:37:00Z",
       "endTime": "2026-02-05T22:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:39:00Z",
       "endTime": "2026-02-05T22:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:41:00Z",
       "endTime": "2026-02-05T22:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:43:00Z",
       "endTime": "2026-02-05T22:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:45:00Z",
       "endTime": "2026-02-05T22:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:47:00Z",
       "endTime": "2026-02-05T22:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:49:00Z",
       "endTime": "2026-02-05T22:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:51:00Z",
       "endTime": "2026-02-05T22:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:53:00Z",
       "endTime": "2026-02-05T22:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:55:00Z",
       "endTime": "2026-02-05T22:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:57:00Z",
       "endTime": "2026-02-05T22:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 10333.2,
+      "value": 10330.5,
       "startTime": "2026-02-05T22:59:00Z",
       "endTime": "2026-02-05T22:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:01:00Z",
       "endTime": "2026-02-05T23:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:03:00Z",
       "endTime": "2026-02-05T23:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:05:00Z",
       "endTime": "2026-02-05T23:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:07:00Z",
       "endTime": "2026-02-05T23:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:09:00Z",
       "endTime": "2026-02-05T23:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:11:00Z",
       "endTime": "2026-02-05T23:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:13:00Z",
       "endTime": "2026-02-05T23:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:15:00Z",
       "endTime": "2026-02-05T23:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:17:00Z",
       "endTime": "2026-02-05T23:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:19:00Z",
       "endTime": "2026-02-05T23:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:21:00Z",
       "endTime": "2026-02-05T23:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:23:00Z",
       "endTime": "2026-02-05T23:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:25:00Z",
       "endTime": "2026-02-05T23:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:27:00Z",
       "endTime": "2026-02-05T23:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:29:00Z",
       "endTime": "2026-02-05T23:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:31:00Z",
       "endTime": "2026-02-05T23:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:33:00Z",
       "endTime": "2026-02-05T23:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:35:00Z",
       "endTime": "2026-02-05T23:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:37:00Z",
       "endTime": "2026-02-05T23:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:39:00Z",
       "endTime": "2026-02-05T23:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:41:00Z",
       "endTime": "2026-02-05T23:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:43:00Z",
       "endTime": "2026-02-05T23:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:45:00Z",
       "endTime": "2026-02-05T23:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:47:00Z",
       "endTime": "2026-02-05T23:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:49:00Z",
       "endTime": "2026-02-05T23:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:51:00Z",
       "endTime": "2026-02-05T23:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:53:00Z",
       "endTime": "2026-02-05T23:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:55:00Z",
       "endTime": "2026-02-05T23:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:57:00Z",
       "endTime": "2026-02-05T23:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 10174.4,
+      "value": 10171.5,
       "startTime": "2026-02-05T23:59:00Z",
       "endTime": "2026-02-05T23:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:01:00Z",
       "endTime": "2026-02-06T00:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:03:00Z",
       "endTime": "2026-02-06T00:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:05:00Z",
       "endTime": "2026-02-06T00:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:07:00Z",
       "endTime": "2026-02-06T00:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:09:00Z",
       "endTime": "2026-02-06T00:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:11:00Z",
       "endTime": "2026-02-06T00:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:13:00Z",
       "endTime": "2026-02-06T00:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:15:00Z",
       "endTime": "2026-02-06T00:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:17:00Z",
       "endTime": "2026-02-06T00:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:19:00Z",
       "endTime": "2026-02-06T00:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:21:00Z",
       "endTime": "2026-02-06T00:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:23:00Z",
       "endTime": "2026-02-06T00:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:25:00Z",
       "endTime": "2026-02-06T00:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:27:00Z",
       "endTime": "2026-02-06T00:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:29:00Z",
       "endTime": "2026-02-06T00:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:31:00Z",
       "endTime": "2026-02-06T00:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:33:00Z",
       "endTime": "2026-02-06T00:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:35:00Z",
       "endTime": "2026-02-06T00:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:37:00Z",
       "endTime": "2026-02-06T00:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:39:00Z",
       "endTime": "2026-02-06T00:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:41:00Z",
       "endTime": "2026-02-06T00:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:43:00Z",
       "endTime": "2026-02-06T00:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:45:00Z",
       "endTime": "2026-02-06T00:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:47:00Z",
       "endTime": "2026-02-06T00:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:49:00Z",
       "endTime": "2026-02-06T00:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:51:00Z",
       "endTime": "2026-02-06T00:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:53:00Z",
       "endTime": "2026-02-06T00:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:55:00Z",
       "endTime": "2026-02-06T00:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:57:00Z",
       "endTime": "2026-02-06T00:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 9982.64,
+      "value": 9979.73,
       "startTime": "2026-02-06T00:59:00Z",
       "endTime": "2026-02-06T00:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:01:00Z",
       "endTime": "2026-02-06T01:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:03:00Z",
       "endTime": "2026-02-06T01:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:05:00Z",
       "endTime": "2026-02-06T01:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:07:00Z",
       "endTime": "2026-02-06T01:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:09:00Z",
       "endTime": "2026-02-06T01:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:11:00Z",
       "endTime": "2026-02-06T01:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:13:00Z",
       "endTime": "2026-02-06T01:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:15:00Z",
       "endTime": "2026-02-06T01:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:17:00Z",
       "endTime": "2026-02-06T01:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:19:00Z",
       "endTime": "2026-02-06T01:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:21:00Z",
       "endTime": "2026-02-06T01:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:23:00Z",
       "endTime": "2026-02-06T01:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:25:00Z",
       "endTime": "2026-02-06T01:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:27:00Z",
       "endTime": "2026-02-06T01:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:29:00Z",
       "endTime": "2026-02-06T01:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:31:00Z",
       "endTime": "2026-02-06T01:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:33:00Z",
       "endTime": "2026-02-06T01:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:35:00Z",
       "endTime": "2026-02-06T01:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:37:00Z",
       "endTime": "2026-02-06T01:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:39:00Z",
       "endTime": "2026-02-06T01:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:41:00Z",
       "endTime": "2026-02-06T01:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:43:00Z",
       "endTime": "2026-02-06T01:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:45:00Z",
       "endTime": "2026-02-06T01:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:47:00Z",
       "endTime": "2026-02-06T01:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:49:00Z",
       "endTime": "2026-02-06T01:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:51:00Z",
       "endTime": "2026-02-06T01:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:53:00Z",
       "endTime": "2026-02-06T01:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:55:00Z",
       "endTime": "2026-02-06T01:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:57:00Z",
       "endTime": "2026-02-06T01:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 9933.24,
+      "value": 9930.42,
       "startTime": "2026-02-06T01:59:00Z",
       "endTime": "2026-02-06T01:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:01:00Z",
       "endTime": "2026-02-06T02:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:03:00Z",
       "endTime": "2026-02-06T02:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:05:00Z",
       "endTime": "2026-02-06T02:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:07:00Z",
       "endTime": "2026-02-06T02:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:09:00Z",
       "endTime": "2026-02-06T02:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:11:00Z",
       "endTime": "2026-02-06T02:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:13:00Z",
       "endTime": "2026-02-06T02:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:15:00Z",
       "endTime": "2026-02-06T02:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:17:00Z",
       "endTime": "2026-02-06T02:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:19:00Z",
       "endTime": "2026-02-06T02:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:21:00Z",
       "endTime": "2026-02-06T02:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:23:00Z",
       "endTime": "2026-02-06T02:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:25:00Z",
       "endTime": "2026-02-06T02:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:27:00Z",
       "endTime": "2026-02-06T02:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:29:00Z",
       "endTime": "2026-02-06T02:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:31:00Z",
       "endTime": "2026-02-06T02:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:33:00Z",
       "endTime": "2026-02-06T02:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:35:00Z",
       "endTime": "2026-02-06T02:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:37:00Z",
       "endTime": "2026-02-06T02:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:39:00Z",
       "endTime": "2026-02-06T02:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:41:00Z",
       "endTime": "2026-02-06T02:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:43:00Z",
       "endTime": "2026-02-06T02:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:45:00Z",
       "endTime": "2026-02-06T02:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:47:00Z",
       "endTime": "2026-02-06T02:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:49:00Z",
       "endTime": "2026-02-06T02:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:51:00Z",
       "endTime": "2026-02-06T02:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:53:00Z",
       "endTime": "2026-02-06T02:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:55:00Z",
       "endTime": "2026-02-06T02:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:57:00Z",
       "endTime": "2026-02-06T02:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 9981.67,
+      "value": 9978.91,
       "startTime": "2026-02-06T02:59:00Z",
       "endTime": "2026-02-06T02:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:01:00Z",
       "endTime": "2026-02-06T03:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:03:00Z",
       "endTime": "2026-02-06T03:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:05:00Z",
       "endTime": "2026-02-06T03:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:07:00Z",
       "endTime": "2026-02-06T03:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:09:00Z",
       "endTime": "2026-02-06T03:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:11:00Z",
       "endTime": "2026-02-06T03:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:13:00Z",
       "endTime": "2026-02-06T03:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:15:00Z",
       "endTime": "2026-02-06T03:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:17:00Z",
       "endTime": "2026-02-06T03:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:19:00Z",
       "endTime": "2026-02-06T03:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:21:00Z",
       "endTime": "2026-02-06T03:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:23:00Z",
       "endTime": "2026-02-06T03:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:25:00Z",
       "endTime": "2026-02-06T03:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:27:00Z",
       "endTime": "2026-02-06T03:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:29:00Z",
       "endTime": "2026-02-06T03:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:31:00Z",
       "endTime": "2026-02-06T03:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:33:00Z",
       "endTime": "2026-02-06T03:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:35:00Z",
       "endTime": "2026-02-06T03:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:37:00Z",
       "endTime": "2026-02-06T03:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:39:00Z",
       "endTime": "2026-02-06T03:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:41:00Z",
       "endTime": "2026-02-06T03:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:43:00Z",
       "endTime": "2026-02-06T03:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:45:00Z",
       "endTime": "2026-02-06T03:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:47:00Z",
       "endTime": "2026-02-06T03:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:49:00Z",
       "endTime": "2026-02-06T03:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:51:00Z",
       "endTime": "2026-02-06T03:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:53:00Z",
       "endTime": "2026-02-06T03:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:55:00Z",
       "endTime": "2026-02-06T03:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:57:00Z",
       "endTime": "2026-02-06T03:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 10141.6,
+      "value": 10139.0,
       "startTime": "2026-02-06T03:59:00Z",
       "endTime": "2026-02-06T03:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:01:00Z",
       "endTime": "2026-02-06T04:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:03:00Z",
       "endTime": "2026-02-06T04:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:05:00Z",
       "endTime": "2026-02-06T04:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:07:00Z",
       "endTime": "2026-02-06T04:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:09:00Z",
       "endTime": "2026-02-06T04:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:11:00Z",
       "endTime": "2026-02-06T04:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:13:00Z",
       "endTime": "2026-02-06T04:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:15:00Z",
       "endTime": "2026-02-06T04:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:17:00Z",
       "endTime": "2026-02-06T04:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:19:00Z",
       "endTime": "2026-02-06T04:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:21:00Z",
       "endTime": "2026-02-06T04:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:23:00Z",
       "endTime": "2026-02-06T04:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:25:00Z",
       "endTime": "2026-02-06T04:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:27:00Z",
       "endTime": "2026-02-06T04:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:29:00Z",
       "endTime": "2026-02-06T04:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:31:00Z",
       "endTime": "2026-02-06T04:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:33:00Z",
       "endTime": "2026-02-06T04:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:35:00Z",
       "endTime": "2026-02-06T04:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:37:00Z",
       "endTime": "2026-02-06T04:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:39:00Z",
       "endTime": "2026-02-06T04:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:41:00Z",
       "endTime": "2026-02-06T04:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:43:00Z",
       "endTime": "2026-02-06T04:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:45:00Z",
       "endTime": "2026-02-06T04:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:47:00Z",
       "endTime": "2026-02-06T04:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:49:00Z",
       "endTime": "2026-02-06T04:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:51:00Z",
       "endTime": "2026-02-06T04:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:53:00Z",
       "endTime": "2026-02-06T04:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:55:00Z",
       "endTime": "2026-02-06T04:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:57:00Z",
       "endTime": "2026-02-06T04:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 10556.2,
+      "value": 10553.3,
       "startTime": "2026-02-06T04:59:00Z",
       "endTime": "2026-02-06T04:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:01:00Z",
       "endTime": "2026-02-06T05:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:03:00Z",
       "endTime": "2026-02-06T05:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:05:00Z",
       "endTime": "2026-02-06T05:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:07:00Z",
       "endTime": "2026-02-06T05:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:09:00Z",
       "endTime": "2026-02-06T05:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:11:00Z",
       "endTime": "2026-02-06T05:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:13:00Z",
       "endTime": "2026-02-06T05:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:15:00Z",
       "endTime": "2026-02-06T05:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:17:00Z",
       "endTime": "2026-02-06T05:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:19:00Z",
       "endTime": "2026-02-06T05:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:21:00Z",
       "endTime": "2026-02-06T05:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:23:00Z",
       "endTime": "2026-02-06T05:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:25:00Z",
       "endTime": "2026-02-06T05:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:27:00Z",
       "endTime": "2026-02-06T05:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:29:00Z",
       "endTime": "2026-02-06T05:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:31:00Z",
       "endTime": "2026-02-06T05:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:33:00Z",
       "endTime": "2026-02-06T05:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:35:00Z",
       "endTime": "2026-02-06T05:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:37:00Z",
       "endTime": "2026-02-06T05:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:39:00Z",
       "endTime": "2026-02-06T05:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:41:00Z",
       "endTime": "2026-02-06T05:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:43:00Z",
       "endTime": "2026-02-06T05:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:45:00Z",
       "endTime": "2026-02-06T05:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:47:00Z",
       "endTime": "2026-02-06T05:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:49:00Z",
       "endTime": "2026-02-06T05:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:51:00Z",
       "endTime": "2026-02-06T05:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:53:00Z",
       "endTime": "2026-02-06T05:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:55:00Z",
       "endTime": "2026-02-06T05:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:57:00Z",
       "endTime": "2026-02-06T05:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11022.0,
+      "value": 11019.4,
       "startTime": "2026-02-06T05:59:00Z",
       "endTime": "2026-02-06T05:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:01:00Z",
       "endTime": "2026-02-06T06:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:03:00Z",
       "endTime": "2026-02-06T06:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:05:00Z",
       "endTime": "2026-02-06T06:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:07:00Z",
       "endTime": "2026-02-06T06:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:09:00Z",
       "endTime": "2026-02-06T06:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:11:00Z",
       "endTime": "2026-02-06T06:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:13:00Z",
       "endTime": "2026-02-06T06:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:15:00Z",
       "endTime": "2026-02-06T06:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:17:00Z",
       "endTime": "2026-02-06T06:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:19:00Z",
       "endTime": "2026-02-06T06:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:21:00Z",
       "endTime": "2026-02-06T06:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:23:00Z",
       "endTime": "2026-02-06T06:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:25:00Z",
       "endTime": "2026-02-06T06:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:27:00Z",
       "endTime": "2026-02-06T06:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:29:00Z",
       "endTime": "2026-02-06T06:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:31:00Z",
       "endTime": "2026-02-06T06:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:33:00Z",
       "endTime": "2026-02-06T06:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:35:00Z",
       "endTime": "2026-02-06T06:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:37:00Z",
       "endTime": "2026-02-06T06:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:39:00Z",
       "endTime": "2026-02-06T06:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:41:00Z",
       "endTime": "2026-02-06T06:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:43:00Z",
       "endTime": "2026-02-06T06:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:45:00Z",
       "endTime": "2026-02-06T06:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:47:00Z",
       "endTime": "2026-02-06T06:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:49:00Z",
       "endTime": "2026-02-06T06:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:51:00Z",
       "endTime": "2026-02-06T06:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:53:00Z",
       "endTime": "2026-02-06T06:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:55:00Z",
       "endTime": "2026-02-06T06:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:57:00Z",
       "endTime": "2026-02-06T06:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11197.0,
+      "value": 11194.3,
       "startTime": "2026-02-06T06:59:00Z",
       "endTime": "2026-02-06T06:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:01:00Z",
       "endTime": "2026-02-06T07:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:03:00Z",
       "endTime": "2026-02-06T07:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:05:00Z",
       "endTime": "2026-02-06T07:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:07:00Z",
       "endTime": "2026-02-06T07:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:09:00Z",
       "endTime": "2026-02-06T07:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:11:00Z",
       "endTime": "2026-02-06T07:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:13:00Z",
       "endTime": "2026-02-06T07:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:15:00Z",
       "endTime": "2026-02-06T07:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:17:00Z",
       "endTime": "2026-02-06T07:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:19:00Z",
       "endTime": "2026-02-06T07:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:21:00Z",
       "endTime": "2026-02-06T07:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:23:00Z",
       "endTime": "2026-02-06T07:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:25:00Z",
       "endTime": "2026-02-06T07:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:27:00Z",
       "endTime": "2026-02-06T07:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:29:00Z",
       "endTime": "2026-02-06T07:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:31:00Z",
       "endTime": "2026-02-06T07:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:33:00Z",
       "endTime": "2026-02-06T07:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:35:00Z",
       "endTime": "2026-02-06T07:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:37:00Z",
       "endTime": "2026-02-06T07:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:39:00Z",
       "endTime": "2026-02-06T07:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:41:00Z",
       "endTime": "2026-02-06T07:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:43:00Z",
       "endTime": "2026-02-06T07:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:45:00Z",
       "endTime": "2026-02-06T07:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:47:00Z",
       "endTime": "2026-02-06T07:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:49:00Z",
       "endTime": "2026-02-06T07:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:51:00Z",
       "endTime": "2026-02-06T07:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:53:00Z",
       "endTime": "2026-02-06T07:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:55:00Z",
       "endTime": "2026-02-06T07:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:57:00Z",
       "endTime": "2026-02-06T07:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11345.0,
+      "value": 11344.9,
       "startTime": "2026-02-06T07:59:00Z",
       "endTime": "2026-02-06T07:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:01:00Z",
       "endTime": "2026-02-06T08:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:03:00Z",
       "endTime": "2026-02-06T08:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:05:00Z",
       "endTime": "2026-02-06T08:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:07:00Z",
       "endTime": "2026-02-06T08:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:09:00Z",
       "endTime": "2026-02-06T08:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:11:00Z",
       "endTime": "2026-02-06T08:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:13:00Z",
       "endTime": "2026-02-06T08:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:15:00Z",
       "endTime": "2026-02-06T08:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:17:00Z",
       "endTime": "2026-02-06T08:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:19:00Z",
       "endTime": "2026-02-06T08:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:21:00Z",
       "endTime": "2026-02-06T08:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:23:00Z",
       "endTime": "2026-02-06T08:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:25:00Z",
       "endTime": "2026-02-06T08:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:27:00Z",
       "endTime": "2026-02-06T08:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:29:00Z",
       "endTime": "2026-02-06T08:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:31:00Z",
       "endTime": "2026-02-06T08:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:33:00Z",
       "endTime": "2026-02-06T08:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:35:00Z",
       "endTime": "2026-02-06T08:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:37:00Z",
       "endTime": "2026-02-06T08:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:39:00Z",
       "endTime": "2026-02-06T08:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:41:00Z",
       "endTime": "2026-02-06T08:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:43:00Z",
       "endTime": "2026-02-06T08:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:45:00Z",
       "endTime": "2026-02-06T08:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:47:00Z",
       "endTime": "2026-02-06T08:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:49:00Z",
       "endTime": "2026-02-06T08:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:51:00Z",
       "endTime": "2026-02-06T08:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:53:00Z",
       "endTime": "2026-02-06T08:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:55:00Z",
       "endTime": "2026-02-06T08:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:57:00Z",
       "endTime": "2026-02-06T08:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11368.7,
+      "value": 11368.6,
       "startTime": "2026-02-06T08:59:00Z",
       "endTime": "2026-02-06T08:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:01:00Z",
       "endTime": "2026-02-06T09:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:03:00Z",
       "endTime": "2026-02-06T09:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:05:00Z",
       "endTime": "2026-02-06T09:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:07:00Z",
       "endTime": "2026-02-06T09:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:09:00Z",
       "endTime": "2026-02-06T09:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:11:00Z",
       "endTime": "2026-02-06T09:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:13:00Z",
       "endTime": "2026-02-06T09:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:15:00Z",
       "endTime": "2026-02-06T09:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:17:00Z",
       "endTime": "2026-02-06T09:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:19:00Z",
       "endTime": "2026-02-06T09:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:21:00Z",
       "endTime": "2026-02-06T09:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:23:00Z",
       "endTime": "2026-02-06T09:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:25:00Z",
       "endTime": "2026-02-06T09:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:27:00Z",
       "endTime": "2026-02-06T09:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:29:00Z",
       "endTime": "2026-02-06T09:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:31:00Z",
       "endTime": "2026-02-06T09:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:33:00Z",
       "endTime": "2026-02-06T09:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:35:00Z",
       "endTime": "2026-02-06T09:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:37:00Z",
       "endTime": "2026-02-06T09:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:39:00Z",
       "endTime": "2026-02-06T09:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:41:00Z",
       "endTime": "2026-02-06T09:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:43:00Z",
       "endTime": "2026-02-06T09:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:45:00Z",
       "endTime": "2026-02-06T09:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:47:00Z",
       "endTime": "2026-02-06T09:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:49:00Z",
       "endTime": "2026-02-06T09:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:51:00Z",
       "endTime": "2026-02-06T09:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:53:00Z",
       "endTime": "2026-02-06T09:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:55:00Z",
       "endTime": "2026-02-06T09:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:57:00Z",
       "endTime": "2026-02-06T09:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11302.5,
+      "value": 11302.6,
       "startTime": "2026-02-06T09:59:00Z",
       "endTime": "2026-02-06T09:59:00Z",
       "datasetId": 241
@@ -75665,181 +75125,181 @@
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:01:00Z",
       "endTime": "2026-02-06T11:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:03:00Z",
       "endTime": "2026-02-06T11:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:05:00Z",
       "endTime": "2026-02-06T11:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:07:00Z",
       "endTime": "2026-02-06T11:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:09:00Z",
       "endTime": "2026-02-06T11:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:11:00Z",
       "endTime": "2026-02-06T11:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:13:00Z",
       "endTime": "2026-02-06T11:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:15:00Z",
       "endTime": "2026-02-06T11:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:17:00Z",
       "endTime": "2026-02-06T11:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:19:00Z",
       "endTime": "2026-02-06T11:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:21:00Z",
       "endTime": "2026-02-06T11:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:23:00Z",
       "endTime": "2026-02-06T11:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:25:00Z",
       "endTime": "2026-02-06T11:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:27:00Z",
       "endTime": "2026-02-06T11:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:29:00Z",
       "endTime": "2026-02-06T11:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:31:00Z",
       "endTime": "2026-02-06T11:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:33:00Z",
       "endTime": "2026-02-06T11:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:35:00Z",
       "endTime": "2026-02-06T11:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:37:00Z",
       "endTime": "2026-02-06T11:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:39:00Z",
       "endTime": "2026-02-06T11:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:41:00Z",
       "endTime": "2026-02-06T11:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:43:00Z",
       "endTime": "2026-02-06T11:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:45:00Z",
       "endTime": "2026-02-06T11:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:47:00Z",
       "endTime": "2026-02-06T11:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:49:00Z",
       "endTime": "2026-02-06T11:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:51:00Z",
       "endTime": "2026-02-06T11:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:53:00Z",
       "endTime": "2026-02-06T11:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:55:00Z",
       "endTime": "2026-02-06T11:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:57:00Z",
       "endTime": "2026-02-06T11:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11059.0,
+      "value": 11059.1,
       "startTime": "2026-02-06T11:59:00Z",
       "endTime": "2026-02-06T11:59:00Z",
       "datasetId": 241
@@ -76025,181 +75485,181 @@
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:01:00Z",
       "endTime": "2026-02-06T13:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:03:00Z",
       "endTime": "2026-02-06T13:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:05:00Z",
       "endTime": "2026-02-06T13:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:07:00Z",
       "endTime": "2026-02-06T13:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:09:00Z",
       "endTime": "2026-02-06T13:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:11:00Z",
       "endTime": "2026-02-06T13:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:13:00Z",
       "endTime": "2026-02-06T13:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:15:00Z",
       "endTime": "2026-02-06T13:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:17:00Z",
       "endTime": "2026-02-06T13:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:19:00Z",
       "endTime": "2026-02-06T13:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:21:00Z",
       "endTime": "2026-02-06T13:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:23:00Z",
       "endTime": "2026-02-06T13:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:25:00Z",
       "endTime": "2026-02-06T13:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:27:00Z",
       "endTime": "2026-02-06T13:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:29:00Z",
       "endTime": "2026-02-06T13:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:31:00Z",
       "endTime": "2026-02-06T13:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:33:00Z",
       "endTime": "2026-02-06T13:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:35:00Z",
       "endTime": "2026-02-06T13:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:37:00Z",
       "endTime": "2026-02-06T13:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:39:00Z",
       "endTime": "2026-02-06T13:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:41:00Z",
       "endTime": "2026-02-06T13:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:43:00Z",
       "endTime": "2026-02-06T13:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:45:00Z",
       "endTime": "2026-02-06T13:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:47:00Z",
       "endTime": "2026-02-06T13:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:49:00Z",
       "endTime": "2026-02-06T13:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:51:00Z",
       "endTime": "2026-02-06T13:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:53:00Z",
       "endTime": "2026-02-06T13:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:55:00Z",
       "endTime": "2026-02-06T13:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:57:00Z",
       "endTime": "2026-02-06T13:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11108.7,
+      "value": 11108.8,
       "startTime": "2026-02-06T13:59:00Z",
       "endTime": "2026-02-06T13:59:00Z",
       "datasetId": 241
@@ -76385,361 +75845,361 @@
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:01:00Z",
       "endTime": "2026-02-06T15:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:03:00Z",
       "endTime": "2026-02-06T15:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:05:00Z",
       "endTime": "2026-02-06T15:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:07:00Z",
       "endTime": "2026-02-06T15:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:09:00Z",
       "endTime": "2026-02-06T15:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:11:00Z",
       "endTime": "2026-02-06T15:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:13:00Z",
       "endTime": "2026-02-06T15:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:15:00Z",
       "endTime": "2026-02-06T15:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:17:00Z",
       "endTime": "2026-02-06T15:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:19:00Z",
       "endTime": "2026-02-06T15:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:21:00Z",
       "endTime": "2026-02-06T15:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:23:00Z",
       "endTime": "2026-02-06T15:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:25:00Z",
       "endTime": "2026-02-06T15:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:27:00Z",
       "endTime": "2026-02-06T15:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:29:00Z",
       "endTime": "2026-02-06T15:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:31:00Z",
       "endTime": "2026-02-06T15:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:33:00Z",
       "endTime": "2026-02-06T15:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:35:00Z",
       "endTime": "2026-02-06T15:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:37:00Z",
       "endTime": "2026-02-06T15:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:39:00Z",
       "endTime": "2026-02-06T15:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:41:00Z",
       "endTime": "2026-02-06T15:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:43:00Z",
       "endTime": "2026-02-06T15:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:45:00Z",
       "endTime": "2026-02-06T15:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:47:00Z",
       "endTime": "2026-02-06T15:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:49:00Z",
       "endTime": "2026-02-06T15:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:51:00Z",
       "endTime": "2026-02-06T15:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:53:00Z",
       "endTime": "2026-02-06T15:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:55:00Z",
       "endTime": "2026-02-06T15:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:57:00Z",
       "endTime": "2026-02-06T15:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11558.4,
+      "value": 11558.6,
       "startTime": "2026-02-06T15:59:00Z",
       "endTime": "2026-02-06T15:59:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:01:00Z",
       "endTime": "2026-02-06T16:01:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:03:00Z",
       "endTime": "2026-02-06T16:03:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:05:00Z",
       "endTime": "2026-02-06T16:05:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:07:00Z",
       "endTime": "2026-02-06T16:07:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:09:00Z",
       "endTime": "2026-02-06T16:09:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:11:00Z",
       "endTime": "2026-02-06T16:11:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:13:00Z",
       "endTime": "2026-02-06T16:13:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:15:00Z",
       "endTime": "2026-02-06T16:15:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:17:00Z",
       "endTime": "2026-02-06T16:17:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:19:00Z",
       "endTime": "2026-02-06T16:19:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:21:00Z",
       "endTime": "2026-02-06T16:21:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:23:00Z",
       "endTime": "2026-02-06T16:23:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:25:00Z",
       "endTime": "2026-02-06T16:25:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:27:00Z",
       "endTime": "2026-02-06T16:27:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:29:00Z",
       "endTime": "2026-02-06T16:29:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:31:00Z",
       "endTime": "2026-02-06T16:31:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:33:00Z",
       "endTime": "2026-02-06T16:33:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:35:00Z",
       "endTime": "2026-02-06T16:35:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:37:00Z",
       "endTime": "2026-02-06T16:37:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:39:00Z",
       "endTime": "2026-02-06T16:39:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:41:00Z",
       "endTime": "2026-02-06T16:41:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:43:00Z",
       "endTime": "2026-02-06T16:43:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:45:00Z",
       "endTime": "2026-02-06T16:45:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:47:00Z",
       "endTime": "2026-02-06T16:47:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:49:00Z",
       "endTime": "2026-02-06T16:49:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:51:00Z",
       "endTime": "2026-02-06T16:51:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:53:00Z",
       "endTime": "2026-02-06T16:53:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:55:00Z",
       "endTime": "2026-02-06T16:55:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:57:00Z",
       "endTime": "2026-02-06T16:57:00Z",
       "datasetId": 241
     },
     {
-      "value": 11634.5,
+      "value": 11634.6,
       "startTime": "2026-02-06T16:59:00Z",
       "endTime": "2026-02-06T16:59:00Z",
       "datasetId": 241
@@ -77466,84 +76926,6 @@
     }
   ],
   "ConsumptionForecast": [
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:39:00Z",
-      "endTime": "2026-02-05T20:39:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:45:00Z",
-      "endTime": "2026-02-05T20:45:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:51:00Z",
-      "endTime": "2026-02-05T20:51:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:57:00Z",
-      "endTime": "2026-02-05T20:57:00Z",
-      "datasetId": 166
-    },
-    {
-      "value": 13686.1,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
-      "datasetId": 166
-    },
     {
       "value": 13579.7,
       "startTime": "2026-02-05T21:01:00Z",
@@ -84567,81 +83949,57 @@
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:35:00Z",
-      "endTime": "2026-02-05T20:35:00Z",
+      "value": 18.3372,
+      "startTime": "2026-02-05T20:30:00Z",
+      "endTime": "2026-02-05T20:33:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:37:00Z",
-      "endTime": "2026-02-05T20:37:00Z",
+      "value": 17.5068,
+      "startTime": "2026-02-05T20:33:00Z",
+      "endTime": "2026-02-05T20:36:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:39:00Z",
+      "value": 18.3373,
+      "startTime": "2026-02-05T20:36:00Z",
       "endTime": "2026-02-05T20:39:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:41:00Z",
-      "endTime": "2026-02-05T20:41:00Z",
+      "value": 16.8044,
+      "startTime": "2026-02-05T20:39:00Z",
+      "endTime": "2026-02-05T20:42:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:43:00Z",
-      "endTime": "2026-02-05T20:43:00Z",
-      "datasetId": 398
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:45:00Z",
+      "value": 17.1481,
+      "startTime": "2026-02-05T20:42:00Z",
       "endTime": "2026-02-05T20:45:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:47:00Z",
-      "endTime": "2026-02-05T20:47:00Z",
+      "value": 12.4101,
+      "startTime": "2026-02-05T20:45:00Z",
+      "endTime": "2026-02-05T20:48:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:49:00Z",
-      "endTime": "2026-02-05T20:49:00Z",
-      "datasetId": 398
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:51:00Z",
+      "value": 12.3137,
+      "startTime": "2026-02-05T20:48:00Z",
       "endTime": "2026-02-05T20:51:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:53:00Z",
-      "endTime": "2026-02-05T20:53:00Z",
+      "value": 12.2515,
+      "startTime": "2026-02-05T20:51:00Z",
+      "endTime": "2026-02-05T20:54:00Z",
       "datasetId": 398
     },
     {
-      "value": null,
-      "startTime": "2026-02-05T20:55:00Z",
-      "endTime": "2026-02-05T20:55:00Z",
-      "datasetId": 398
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:57:00Z",
+      "value": 11.6672,
+      "startTime": "2026-02-05T20:54:00Z",
       "endTime": "2026-02-05T20:57:00Z",
-      "datasetId": 398
-    },
-    {
-      "value": null,
-      "startTime": "2026-02-05T20:59:00Z",
-      "endTime": "2026-02-05T20:59:00Z",
       "datasetId": 398
     },
     {
